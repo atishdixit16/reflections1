@@ -1,2 +1,6 @@
 git init
 git status
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is a subset of working directory. repository contains commits of the files in the staging area.
